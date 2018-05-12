@@ -1,0 +1,31 @@
+_repo: How-To-Write-Special-Feature-Articles--13-A-Handbook-for-Reporters-Correspondents-and-Free-La__15718
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bleyer, Willard Grosvenor
+    alias: Bleyer, Daddy
+    birthdate: 1873
+    deathdate: 1935
+    gutenberg_agent_id: '6220'
+    url: http://www.gutenberg.org/2009/agents/6220
+description: ''
+gutenberg_bookshelf: Reference
+gutenberg_issued: '2005-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Journalism'
+- !lcsh 'Authorship'
+title: "How To Write Special Feature Articles\r\nA Handbook for Reporters, Correspondents\
+  \ and Free-Lance Writers Who Desire to Contribute to Popular Magazines and Magazine\
+  \ Sections of Newspapers"
+url: http://www.gutenberg.org/ebooks/15718
